@@ -1,4 +1,4 @@
-2048-android
+blueblock-android
 ============
 
 This is the android port of the blueblock game 
@@ -14,13 +14,13 @@ Play store link:
 
 If you want to build from source just do 
 
-    git clone --recursive https://github.com/uberspot/2048-android.git
-    cd 2048-android/
+    git clone --recursive https://github.com/FrameMen/blueblock-android.git 
+    cd blueblock-android/
     ./gradlew build
     
 ### With Eclipse
 
-1. Copy `https://github.com/uberspot/2048-android.git` to clipboard
+1. Copy `https://github.com/FrameMen/blueblock-android.git` to clipboard
 2. File -> Import -> Git / Projects from Git -> Clone URI
 3. Paste URI from clipboard (if it did not appeared automatically)
 4. Next> Next> **Check "Clone submodules"**
