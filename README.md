@@ -8,7 +8,6 @@ specific improvements in mind.
 
 Play store link: 
 
-![](screenshots/screen1.png)
 
 ##Building
 
