@@ -26,3 +26,4 @@ proguard/
 # Gradle stuff
 build
 .gradle
+*.keystore
