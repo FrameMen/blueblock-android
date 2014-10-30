@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueBlock</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="press_back_again_to_exit">Premi indietro nuovamente per uscire</string>
+    <string name="toggle_fullscreen">Tieni premuto per visualizzare a schermo intero</string>
+
+</resources>
