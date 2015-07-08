@@ -16,6 +16,11 @@ If you want to build from source just do
     git clone --recursive https://github.com/FrameMen/blueblock-android.git 
     cd blueblock-android/
     ./gradlew build
+
+### With Docker
+    git clone --recursive https://github.com/FrameMen/blueblock-android.git 
+    cd blueblock-android/
+    docker run --tty --interactive --volume=$(pwd):/opt/workspace --workdir=/opt/workspace jacekmarchwicki/android:java7  /bin/sh -c "android update sdk --all --no-ui --filter build-tools-19.1.0,android-19 ; ./gradlew build"
     
 ### With Eclipse
 
